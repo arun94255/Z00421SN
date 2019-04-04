@@ -1,0 +1,11 @@
+F:\Arun\PluralSight Tranning\PRISM\ModuleDemo3\Src\ModuleDemo3.Infrastructure\bin\Debug\ModuleDemo3.Infrastructure.dll
+F:\Arun\PluralSight Tranning\PRISM\ModuleDemo3\Src\ModuleDemo3.Infrastructure\bin\Debug\ModuleDemo3.Infrastructure.pdb
+F:\Arun\PluralSight Tranning\PRISM\ModuleDemo3\Src\ModuleDemo3.Infrastructure\bin\Debug\Microsoft.Practices.Prism.dll
+F:\Arun\PluralSight Tranning\PRISM\ModuleDemo3\Src\ModuleDemo3.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Arun\PluralSight Tranning\PRISM\ModuleDemo3\Src\ModuleDemo3.Infrastructure\obj\Debug\ModuleDemo3.Infrastructure.csprojResolveAssemblyReference.cache
+F:\Arun\PluralSight Tranning\PRISM\ModuleDemo3\Src\ModuleDemo3.Infrastructure\obj\Debug\ModuleDemo3.Infrastructure.Properties.Resources.resources
+F:\Arun\PluralSight Tranning\PRISM\ModuleDemo3\Src\ModuleDemo3.Infrastructure\obj\Debug\ModuleDemo3.Infrastructure.csproj.GenerateResource.Cache
+F:\Arun\PluralSight Tranning\PRISM\ModuleDemo3\Src\ModuleDemo3.Infrastructure\obj\Debug\ModuleDemo3.Infrastructure.dll
+F:\Arun\PluralSight Tranning\PRISM\ModuleDemo3\Src\ModuleDemo3.Infrastructure\obj\Debug\ModuleDemo3.Infrastructure.pdb
+F:\Arun\PluralSight Tranning\PRISM\ModuleDemo3\Output\ModuleDemo3.Infrastructure.dll
+F:\Arun\PluralSight Tranning\PRISM\ModuleDemo3\Output\ModuleDemo3.Infrastructure.pdb
