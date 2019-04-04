@@ -1,0 +1,11 @@
+﻿<Window x:Class="ModuleDemo3.Shell"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+         xmlns:prism="http://www.codeplex.com/prism"
+        xmlns:d3="clr-namespace:ModuleDemo3.Infrastructure;assembly=ModuleDemo3.Infrastructure"
+        Title="Shell">
+    <Grid>
+        <ContentControl prism:RegionManager.RegionName="{x:Static d3:RegionNames.TitleRegion}" Margin="10,0,10,345"/>
+        <ItemsControl prism:RegionManager.RegionName="{x:Static d3:RegionNames.ImageRegion}"  Margin="10,130,10,0"/>
+    </Grid>
+</Window>

@@ -1,0 +1,2 @@
+F:\Arun\PluralSight Tranning\PRISM\ModuleDemo3\Src\ModuleDemo3\bin\Debug\ModuleDemo3.exe.config
+F:\Arun\PluralSight Tranning\PRISM\ModuleDemo3\Output\ModuleDemo3.exe.config
